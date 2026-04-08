@@ -11,5 +11,5 @@ The next page shows a quick summary of the performance
 And finally, a data extract page for any further data analysis needs
 <img width="1309" height="730" alt="image" src="https://github.com/user-attachments/assets/ed0859bf-9d34-4966-93a6-a2cea00daf1a" />
 
-Data Model
+Semantic Model
 <img width="1179" height="762" alt="image" src="https://github.com/user-attachments/assets/40fa09a9-3055-4002-b74c-1aebde49672c" />
