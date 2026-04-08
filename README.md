@@ -1,4 +1,4 @@
-# power_bi_complaints_project
+# Power BI Complaints Project
 **Business Scenario**
 The customer complaints department has been breaching Service Level Agreements (SLA) to respond to customer complaints within a specified time frame and are struggling to find out which cases are close to breaching. To address this issue, a Power BI report has been developed
 
